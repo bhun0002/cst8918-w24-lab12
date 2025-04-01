@@ -87,12 +87,12 @@ Full instructions for each step can be found in the [docs](docs) folder. Please 
 ## Screenshots
 
 Pull Request - All Checks Passed
-![All Checks Passed](screenshots/pr-tf-plan.png)
+![All Checks Passed](screenshots/pr-tf-plan.PNG)
 
 
 
 Pull Request - Terraform Plan Output
-![Terraform Plan Output](screenshots/pr-tf-plan.png)
+![Terraform Plan Output](screenshots/pr-tf-plan.PNG)
 
 
 ## Additional References
